@@ -41,4 +41,4 @@ Technologien im Einsatz:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://www.java.com/de/
-[product-screenshot]: ../HelloWorldJarz/images/main.png
+[product-screenshot]: program.png
